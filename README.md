@@ -1,4 +1,4 @@
-# DSD Group Project: Traffic Light Controller
+# DSD Group Project: Drive-Through Facility Controller
 
 The entire circuit is implemented and can be simulated using Logism Evolution
 
