@@ -26,3 +26,12 @@ This is the top-level circuit that integrates all components. It contains:
 
 -   **`Traffic_Light_Project.circ`**: The complete Logisim-evolution project file containing all circuits and logic.
 -   **`Project_tables.xlsx`**: A spreadsheet containing the state transition table, output tables, and Karnaugh maps used to derive the boolean expressions for the combinational logic.
+
+
+## Group Members
+- Adriana Gomez
+- Andrew Brugner
+- Blaine Pavlock
+- Elisa Garcia
+- Kelli Garcia
+- William Henderson
