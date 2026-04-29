@@ -29,9 +29,9 @@ This is the top-level circuit that integrates all components. It contains:
 
 
 ## Group Members
-- Adriana Gomez
-- Andrew Brugner
-- Blaine Pavlock
-- Elisa Garcia
-- Kelli Garcia
-- William Henderson
+Adriana Gomez
+Andrew Brugner
+Blaine Pavlock
+Elisa Garcia
+Kelli Garcia
+William Henderson
