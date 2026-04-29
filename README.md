@@ -9,7 +9,6 @@ This is the top-level circuit that integrates all components. It contains:
 - State register, which holds the current state of the FSM.
 - Master clock and reset pins.
 - Input pins for Enter and Exit sensors
-- `State_Transition`, `State_to_Lights`, and `State_to_Count` sub-circuits.
 - Output components: LEDs for the entrance and exit traffic lights and a Hex Digit Display for the car count.
 
 
